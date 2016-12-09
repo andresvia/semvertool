@@ -1,2 +1,1 @@
-# semvertool
-Simple tool to verify semantic versioning
+[godoc](https://godoc.org/github.com/andresvia/semvertool)
